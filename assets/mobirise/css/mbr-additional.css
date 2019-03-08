@@ -2173,6 +2173,9 @@ body {
     padding-top: 2rem;
   }
 }
+.cid-rk93yVOqoh H4 {
+  color: #0088ff;
+}
 .cid-rkanvAd9w1 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2197,7 +2200,7 @@ body {
 }
 .cid-rkanvAd9w1 .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #0088ff;
 }
 @media (max-width: 550px) {
   .cid-rkanvAd9w1 .price-figure {
@@ -2244,7 +2247,7 @@ body {
   }
 }
 .cid-rkakWNETx7 .img-text {
-  color: #c1c1c1;
+  color: #0088ff;
 }
 .cid-rkanBo8WRh {
   padding-top: 90px;
@@ -2271,6 +2274,12 @@ body {
   font-size: 80px;
   color: #149dcc;
 }
+.cid-rkanBo8WRh H4 {
+  color: #0088ff;
+}
+.cid-rkanBo8WRh H3 {
+  color: #0088ff;
+}
 .cid-rkamen8PoM {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2279,6 +2288,9 @@ body {
 .cid-rkamen8PoM .mbr-text,
 .cid-rkamen8PoM blockquote {
   color: #767676;
+}
+.cid-rkamen8PoM B {
+  color: #0088ff;
 }
 .cid-rkamfSPrOV {
   padding-top: 60px;
@@ -2307,7 +2319,7 @@ body {
   line-height: 20px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #0088ff;
   width: 25px;
   height: 25px;
   border-radius: 50%;
