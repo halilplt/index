@@ -1763,6 +1763,24 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qTkA127IK8 {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rk9iVIy39v {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+}
+@media (min-width: 992px) {
+  .cid-rk9iVIy39v .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rk9iVIy39v .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-rk3wJ7x4od {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1798,7 +1816,7 @@ body {
   }
 }
 .cid-rk3wJ7x4od P {
-  color: #1d8f01;
+  color: #7f1933;
 }
 .cid-rk3G7gnIBv {
   padding-top: 60px;
