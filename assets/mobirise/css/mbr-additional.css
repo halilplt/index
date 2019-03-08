@@ -1766,6 +1766,18 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-rkapTcqx56 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rkapTcqx56 P {
+  color: #767676;
+}
+.cid-rkapTcqx56 .mbr-text,
+.cid-rkapTcqx56 .mbr-section-btn {
+  color: #1d8f01;
+}
 .cid-rk3wJ7x4od {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1948,6 +1960,14 @@ body {
   .cid-rk3CP3PBeG .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-rkaseQ3hBW {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rkaseQ3hBW .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rk920YAI2v {
   padding-top: 90px;
