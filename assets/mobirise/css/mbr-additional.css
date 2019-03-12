@@ -3533,9 +3533,55 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rk3W1F5JuV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rk3W1F5JuV .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rk3W1F5JuV .step {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rk3W1F5JuV .step {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-rk3W1F5JuV .separline {
+  position: relative;
+}
+.cid-rk3W1F5JuV .separline:after {
+  top: 68px;
+  left: 30px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (32px + 4px) * 2);
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rk3W1F5JuV .separline:after {
+    top: 52px;
+    left: 22px;
+    height: calc(100% - 56px);
+  }
+}
+.cid-rk3W1F5JuV .mbr-step-text {
+  color: #7f1933;
+}
 .cid-rkwNBd3cvw {
   padding-top: 90px;
-  padding-bottom: 0px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-rkwNBd3cvw h4 {
@@ -3575,7 +3621,7 @@ body {
 }
 .cid-rk4aJQhaFr {
   padding-top: 0px;
-  padding-bottom: 120px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rk4aJQhaFr [class^="socicon-"]:before,
