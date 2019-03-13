@@ -2023,14 +2023,6 @@ body {
     margin-right: 0 !important;
   }
 }
-.cid-rkaseQ3hBW {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rkaseQ3hBW .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-rk920YAI2v {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2175,68 +2167,6 @@ body {
 }
 .cid-rk99Aoxc0S .btn {
   margin: 0 0 .5rem 0;
-}
-.cid-rk93yVOqoh {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #f9f9f9;
-}
-.cid-rk93yVOqoh p {
-  color: #767676;
-}
-.cid-rk93yVOqoh .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rk93yVOqoh .accordion-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rk93yVOqoh .panel-group {
-  width: 100%;
-}
-.cid-rk93yVOqoh .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-rk93yVOqoh .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-rk93yVOqoh .card .card-header a.panel-title {
-  margin-bottom: 0;
-  font-style: normal;
-  font-weight: 500;
-  display: block;
-  text-decoration: none !important;
-  margin-top: -1px;
-  line-height: normal;
-}
-.cid-rk93yVOqoh .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-rk93yVOqoh .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
-  margin-bottom: 0;
-}
-.cid-rk93yVOqoh .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-rk93yVOqoh .mbr-figure {
-  -webkit-align-self: flex-start;
-  align-self: flex-start;
-  padding-left: 4rem;
-}
-@media (max-width: 991px) {
-  .cid-rk93yVOqoh .mbr-figure {
-    padding-right: 0;
-    padding-left: 0;
-    padding-top: 2rem;
-  }
-}
-.cid-rk93yVOqoh H4 {
-  color: #0088ff;
 }
 .cid-rkanvAd9w1 {
   padding-top: 90px;
@@ -2469,88 +2399,6 @@ body {
     width: 100% !important;
     height: auto !important;
   }
-}
-.cid-rkr8buoAeO {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rkr8buoAeO .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rkr8buoAeO .mbr-content-text {
-  color: #767676;
-  margin-bottom: 0;
-}
-.cid-rkr8buoAeO .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rkr8buoAeO .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-@media (min-width: 992px) {
-  .cid-rkr8buoAeO .cards-block {
-    border-top: 2px solid #efefef;
-  }
-}
-.cid-rkr8buoAeO .cards-block .card {
-  border-bottom: 2px solid #efefef;
-  border-radius: 0;
-}
-.cid-rkr8buoAeO .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-.cid-rkr8buoAeO .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-rkr8buoAeO .media-block {
-    padding-left: 2rem;
-  }
-}
-.cid-rkr8buoAeO .cards-block {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-@media (max-width: 991px) {
-  .cid-rkr8buoAeO .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-left: 0;
-    padding-bottom: 2rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-rkr8buoAeO .count {
-    width: 100px;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rkr8buoAeO .panel-item {
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-  }
-  .cid-rkr8buoAeO .card-img {
-    padding-bottom: 1rem;
-    padding-right: 0 !important;
-    margin: auto;
-  }
-}
-.cid-rkr8buoAeO .media-container-row {
-  -webkit-flex-direction: row-reverse;
-  flex-direction: row-reverse;
 }
 .cid-rk41sBDFfH {
   padding-top: 90px;
@@ -5149,6 +4997,14 @@ body {
     width: 100% !important;
   }
 }
+.cid-rkCEDMziDi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rkCEDMziDi P {
+  color: #767676;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -5541,7 +5397,7 @@ body {
 .cid-rkf15soFNq {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #1d8f01;
 }
 .cid-rkf15soFNq .line {
   background-color: #ffffff;
@@ -7240,4 +7096,12 @@ body {
   .cid-rkf15soFNq .inner-container {
     width: 100% !important;
   }
+}
+.cid-rkCEx893Ks {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rkCEx893Ks P {
+  color: #767676;
 }
