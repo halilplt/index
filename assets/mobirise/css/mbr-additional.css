@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1805,46 +1805,6 @@ body {
 .cid-rkapTcqx56 .mbr-text,
 .cid-rkapTcqx56 .mbr-section-btn {
   color: #149dcc;
-}
-.cid-rk3wJ7x4od {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rk3wJ7x4od h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rk3wJ7x4od .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-rk3wJ7x4od .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rk3wJ7x4od .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-rk3wJ7x4od ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-rk3wJ7x4od path {
-  stroke: #1d8f01;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rk3wJ7x4od .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-rk3wJ7x4od P {
-  color: #7f1933;
-}
-.cid-rk3wJ7x4od H4 {
-  color: #1d8f01;
 }
 .cid-rk3G7gnIBv {
   padding-top: 60px;
