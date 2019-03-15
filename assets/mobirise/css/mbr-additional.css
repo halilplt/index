@@ -2033,7 +2033,7 @@ body {
 }
 .cid-rkanvAd9w1 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rkanvAd9w1 .pricing {
@@ -2068,6 +2068,11 @@ body {
 }
 .cid-rkanvAd9w1 hr {
   margin: 2rem 0;
+}
+.cid-rkOLPTUraG {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rkakWNETx7 {
   padding-top: 90px;
