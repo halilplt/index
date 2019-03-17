@@ -2034,40 +2034,49 @@ body {
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rkakWNETx7 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rkZixwwk7b {
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rkakWNETx7 .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rkakWNETx7 .mbr-content-text {
+.cid-rkZixwwk7b .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rkakWNETx7 .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-rkZhwI7ZHu {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-rkakWNETx7 .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
+.cid-rkZhwI7ZHu .counter-container {
+  color: #767676;
 }
-@media (max-width: 767px) {
-  .cid-rkakWNETx7 .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
+.cid-rkZhwI7ZHu .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
 }
-.cid-rkakWNETx7 .img-text {
-  color: #0088ff;
+.cid-rkZhwI7ZHu .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-rkZhwI7ZHu .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-rkZhwI7ZHu .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
 }
 .cid-rkanBo8WRh {
   padding-top: 90px;
