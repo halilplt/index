@@ -1844,26 +1844,26 @@ body {
 }
 .cid-rk3G7gnIBv .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #232323;
+  color: #465052;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: color .3s;
-  border: 2px solid #232323;
+  border: 2px solid #465052;
 }
 .cid-rk3G7gnIBv .nav-tabs .nav-link:hover {
-  background: #0088ff;
+  background: #465052;
 }
 .cid-rk3G7gnIBv .nav-tabs .nav-link.active {
   color: #ffffff;
   font-style: normal;
-  border: 2px solid #0088ff;
-  background: #0088ff;
+  border: 2px solid #465052;
+  background: #465052;
 }
 .cid-rk3G7gnIBv .nav-tabs .nav-link.active:hover {
-  border: 2px solid #0088ff;
+  border: 2px solid #465052;
 }
 .cid-rk3G7gnIBv .mbr-section-text I {
   color: #ff0000;
