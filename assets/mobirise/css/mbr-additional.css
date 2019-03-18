@@ -1806,40 +1806,6 @@ body {
 .cid-rkapTcqx56 .mbr-section-btn {
   color: #149dcc;
 }
-.cid-rl5tYhmFQE {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rl5tYhmFQE h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rl5tYhmFQE .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-rl5tYhmFQE .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rl5tYhmFQE .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-rl5tYhmFQE ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-rl5tYhmFQE path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rl5tYhmFQE .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
 .cid-rk3G7gnIBv {
   padding-top: 60px;
   padding-bottom: 60px;
